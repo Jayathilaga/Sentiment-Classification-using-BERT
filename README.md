@@ -19,5 +19,5 @@ Predicted Sentiment: 1star
 ```
 
 ## Source of the Sample Review can be found here:
-![image.png](attachment:92e628b4-212b-4bd7-a504-ff2baeae3360.png)
+![alt text](https://github.com/Jayathilaga/Sentiment-Classification-using-BERT/blob/main/download.png)
 
